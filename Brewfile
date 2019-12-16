@@ -69,7 +69,6 @@ cask "skype-for-business"
 cask "webex-meetings"
 cask "sublime-text"
 cask "superduper"
-cask "virtualbox"
 
 # Whole section Matt only
 cask "font-fira-code"
